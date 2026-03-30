@@ -1,7 +1,7 @@
 {
-    "version": "4.0.9",
-    "releaseDate": "2026-03-29T19:33:52Z",
-    "downloadUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v4.0.9/Chatak-Setup-4.0.9.exe",
+    "version": "5.0.0",
+    "releaseDate": "2026-03-30T15:06:08Z",
+    "downloadUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v5.0.0/Chatak-Setup-5.0.0.exe",
     "changelog": "## What's New in v4.0.0\n\n### Major Improvements\n- Fixed file permission issues on Windows\n- Centralized data storage in AppData\n- Improved application installer and updater",
     "mandatory": false,
     "minVersion": "1.0.0",
