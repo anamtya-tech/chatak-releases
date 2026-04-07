@@ -1,8 +1,8 @@
 {
-    "version": "5.0.3",
-    "releaseDate": "2026-04-01T10:49:19Z",
-    "updateType": "patch",
-    "downloadUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v5.0.3/Chatak-Setup-5.0.3.exe",
+    "version": "5.0.5",
+    "releaseDate": "2026-04-07T14:41:50Z",
+    "updateType": "full",
+    "downloadUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v5.0.5/Chatak-Setup-5.0.5.exe",
     "sha256": "",
     "fileSize": "0",
     "patchUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v5.0.3/Chatak-Patch-5.0.3.zip",
