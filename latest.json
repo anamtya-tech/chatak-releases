@@ -1,14 +1,14 @@
 {
-    "version": "5.0.7",
-    "releaseDate": "2026-04-14T15:51:54Z",
+    "version": "5.0.9",
+    "releaseDate": "2026-05-26T09:41:41Z",
     "updateType": "full",
-    "downloadUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v5.0.7/Chatak-Setup-5.0.7.exe",
-    "sha256": "",
-    "fileSize": "0",
-    "patchUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v5.0.6/Chatak-Patch-5.0.6.zip",
+    "downloadUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v5.0.9/Chatak-Setup-5.0.9.exe",
+    "sha256": "26e201a8ff766be713cb8439c0e0b9944edfd21d043c3c3128ee12c007787ca3",
+    "fileSize": "694570004",
+    "patchUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v5.0.9/Chatak-Patch-5.0.9.zip",
     "patchSha256": "b649f5b8880c522e46e3efb41aadd16d0e61cd2846680e8d538fa627b34729a8",
     "patchFileSize": "21813120",
-    "changelog": "## What's New in v4.0.0\n\n### Major Improvements\n- Fixed file permission issues on Windows\n- Centralized data storage in AppData\n- Improved application installer and updater",
+    "changelog": "## What's New in v5.0.9\n\n### Major Improvements\n- Hardened updater redirect handling and checksum enforcement\n- Patch/full update flow unified across UI surfaces\n- Release metadata validation added to build/publish pipeline",
     "mandatory": false,
     "minVersion": "1.0.0"
 }
