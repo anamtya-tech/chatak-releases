@@ -1,14 +1,14 @@
 {
-    "version": "5.1.6",
-    "releaseDate": "2026-06-28T09:55:24.871Z",
+    "version": "5.1.7",
+    "releaseDate": "2026-06-28T10:34:16.571Z",
     "updateType": "patch",
-    "downloadUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v5.1.6/Chatak-Setup-5.1.6.exe",
+    "downloadUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v5.1.7/Chatak-Setup-5.1.7.exe",
     "sha256": "26e201a8ff766be713cb8439c0e0b9944edfd21d043c3c3128ee12c007787ca3",
     "fileSize": "694570004",
-    "patchUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v5.1.6/Chatak-Patch-5.1.6.zip",
-    "patchSha256": "6be5bbb692bf326a21346496d3f25797600723751e4861a9013e77101fda44f3",
-    "patchFileSize": "22332517",
-    "changelog": "## What's New in v5.1.6\n\n### Major Improvements\n- Hardened updater redirect handling and checksum enforcement\n- Patch/full update flow unified across UI surfaces\n- Release metadata validation added to build/publish pipeline",
+    "patchUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v5.1.7/Chatak-Patch-5.1.7.zip",
+    "patchSha256": "70dc7453358f49ecbe2c61f106c1c368a6cb784306c620036e03318542bf3f0e",
+    "patchFileSize": "22332779",
+    "changelog": "## What's New in v5.1.7\n\n### Major Improvements\n- Hardened updater redirect handling and checksum enforcement\n- Patch/full update flow unified across UI surfaces\n- Release metadata validation added to build/publish pipeline",
     "mandatory": false,
     "minVersion": "1.0.0"
 }
