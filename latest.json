@@ -1,14 +1,14 @@
 {
-    "version": "6.1.5",
-    "releaseDate": "2026-07-03T21:24:45.445Z",
+    "version": "6.1.6",
+    "releaseDate": "2026-07-03T21:56:08.652Z",
     "updateType": "patch",
-    "downloadUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v6.1.5/Chatak-Setup-6.1.5.exe",
+    "downloadUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v6.1.6/Chatak-Setup-6.1.6.exe",
     "sha256": "26e201a8ff766be713cb8439c0e0b9944edfd21d043c3c3128ee12c007787ca3",
     "fileSize": "694570004",
-    "patchUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v6.1.5/Chatak-Patch-6.1.5.zip",
-    "patchSha256": "8a9778ea343eba4bb79dd9ef288e9908ef5e22036cc0a66e6623b42ef2c5b38a",
-    "patchFileSize": "22355763",
-    "changelog": "## What's New in v6.1.5\n\n### Fixes\n- Hardened patch update installation on Windows systems where System32 tools are missing from PATH\n- Uses absolute Windows tool paths for patch extraction, backup, apply, and restart steps\n- Improves update error labels so check/download/install failures are separated in Settings",
+    "patchUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v6.1.6/Chatak-Patch-6.1.6.zip",
+    "patchSha256": "536a73df961e48303ec189d20505bb952416d83fde9d6199f47d4540780aee40",
+    "patchFileSize": "22356914",
+    "changelog": "## What's New in v6.1.6\n\n### Fixes\n- Hardened patch update installation on Windows systems where System32 tools are missing from PATH\n- Uses absolute Windows tool paths for patch extraction, backup, apply, and restart steps\n- Improves update error labels so check/download/install failures are separated in Settings",
     "mandatory": false,
     "minVersion": "1.0.0"
 }
