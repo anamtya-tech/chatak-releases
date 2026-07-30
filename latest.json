@@ -2,6 +2,8 @@
     "version": "6.1.7",
     "releaseDate": "2026-07-03T22:43:41.060Z",
     "updateType": "patch",
+    "baseVersion": "6.1.7",
+    "baseDownloadUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v6.1.7/Chatak-Setup-6.1.7.exe",
     "downloadUrl": "https://github.com/anamtya-tech/chatak-releases/releases/download/v6.1.7/Chatak-Setup-6.1.7.exe",
     "sha256": "26e201a8ff766be713cb8439c0e0b9944edfd21d043c3c3128ee12c007787ca3",
     "fileSize": "694570004",
